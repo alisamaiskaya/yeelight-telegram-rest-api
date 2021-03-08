@@ -1,0 +1,11 @@
+{
+  "name": "yeelight-telegram-rest-api",
+  "version": "1.0.0",
+  "description": "The aplication for controling yeelight by telegram-chat-bot",
+  "author": "Alisa Pushkarskaya <alisamaiskaya9086@yandex.ru>",
+  "workspaces": [
+    "packages/*"
+  ],
+  "license": "MIT",
+  "private": true
+}
